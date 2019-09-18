@@ -1,2 +1,5 @@
 /venv
 /.idea
+Dockerfile
+requirements.txt
+main.py
